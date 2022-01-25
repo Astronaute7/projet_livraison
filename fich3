@@ -1,0 +1,29 @@
+demain il ferra jour
+
+La première ligne permet de vous positionner dans le dossier que vous venez de créer sur l’ordinateur. La seconde ligne va initialiser ce “simple dossier” comme un dépôt.
+
+Votre dossier n’a rien de nouveau, mais c’est normal . Vous avez pourtant bien initialisé votre dépôt Git. Un dossier caché .git a été créé ! Vous pouvez l'afficher en allant dans Affichage => Éléments masqués.
+
+Pour les plus curieux d’entre vous, sachez que ce dossier caché contient tous les éléments non visibles de Git : la configuration, les “logs”, les branches..
+
+
+Créez votre dépôt local
+Les deux méthodes pour créez un dépôt local
+
+Maintenant que vous avez configuré les paramètres de base, vous pouvez créer votre fameux dépôt local. Pour ce faire, deux solutions sont possibles :
+
+    créer un dépôt local vide pour accueillir un nouveau projet : la procédure est expliquée ci-dessous ;
+
+    cloner un dépôt distant, c’est-à-dire rapatrier l’historique d’un dépôt distant en local. Nous aborderons cette méthode dans la deuxième partie du cours.
+
+Initialisez votre dépôt en créant un dépôt local vide
+
+Dans un premier temps, créez un dossier sur votre ordinateur (avec le nom de notre projet, c’est mieux  ).
+
+Je vous conseille de suivre scrupuleusement les étapes suivantes :
+
+    Allez dans “Document”.
+
+    Créez le dossier “PremierProjet”.
+
+    Accédez à votre dossier. 
