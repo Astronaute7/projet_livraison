@@ -1,5 +1,5 @@
 demain il ferra jour
-
+samedi
 La première ligne permet de vous positionner dans le dossier que vous venez de créer sur l’ordinateur. La seconde ligne va initialiser ce “simple dossier” comme un dépôt.
 
 Votre dossier n’a rien de nouveau, mais c’est normal . Vous avez pourtant bien initialisé votre dépôt Git. Un dossier caché .git a été créé ! Vous pouvez l'afficher en allant dans Affichage => Éléments masqués.
